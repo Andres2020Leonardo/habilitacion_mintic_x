@@ -1,5 +1,5 @@
 import React from 'react';
-import logoPlaceholder from '@assets/placeholders/logo.svg';
+import logoPlaceholder from '@assets/placeholders/logo_mintic.png';
 const siteSettings = {
   name: 'Mintic_UdeA E-commerce',
   description: '',
@@ -14,7 +14,7 @@ const initialState = {
   siteSubtitle: siteSettings.description,
   currency: siteSettings.currencyCode,
   logo: {
-    original: ''
+    original: '@assets/placeholders/logo_mintic.png'
   },
   seo: {
     metaTitle: '',

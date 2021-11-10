@@ -14,7 +14,7 @@
     },
     "logo": {
       "id": "862",
-      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/860/PickBazar.png",
+      "original": "@assets/placeholders/logo_mintic.png",
       "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/860/conversions/PickBazar-thumbnail.jpg"
     },
     "currency": "USD",
