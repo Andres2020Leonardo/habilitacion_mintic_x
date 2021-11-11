@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "owner_id": 1,
+    "name": "Makeup Shop",
+    "slug": "makeup-shop",
+    "description": "The makeup shop is the best shop around the city. This is being run under the store owner and our aim is to provide quality product and hassle free customer service.",
+    "cover_image": {
+      "id": "890",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/888/Untitled-3.jpg",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/888/conversions/Untitled-3-thumbnail.jpg"
+    },
+    "logo": {
+      "id": "891",
+      "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/889/Makeup.png",
+      "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/889/conversions/Makeup-thumbnail.jpg"
+    },
+    "is_active": 1,
+    "address": {
+      "zip": "70001",
+      "city": "Metairie",
+      "state": "Louisiana",
+      "country": "USA",
+      "street_address": "2960  Rose Avenue"
+    },
+    "settings": {
+      "contact": "092281221223",
+      "socials": [
+        {
+          "url": "https://www.instagram.com/",
+          "icon": "InstagramIcon"
+        },
+        {
+          "url": "https://www.twitter.com/",
+          "icon": "TwitterIcon"
+        }
+      ],
+      "website": "https://redq.io/",
+      "location": {
+        "lat": 51.5176117,
+        "lng": -0.210149,
+        "state": "England",
+        "country": "United Kingdom",
+        "formattedAddress": "Ladbroke Grove, London, UK"
+      }
+    },
+    "created_at": "2021-06-27T03:47:49.000000Z",
+    "updated_at": "2021-07-08T09:24:28.000000Z",
+    "orders_count": 0,
+    "products_count": 81,
+    "owner": {
+      "id": 1,
+      "name": "Store Owner",
+      "email": "store_owner@demo.com",
+      "email_verified_at": null,
+      "created_at": "2021-06-27T04:13:00.000000Z",
+      "updated_at": "2021-06-27T04:13:00.000000Z",
+      "is_active": 1,
+      "shop_id": null,
+      "profile": {
+        "id": 1,
+        "avatar": {
+          "id": "883",
+          "original": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/881/aatik-tasneem-7omHUGhhmZ0-unsplash%402x.png",
+          "thumbnail": "https://pickbazarlaravel.s3.ap-southeast-1.amazonaws.com/881/conversions/aatik-tasneem-7omHUGhhmZ0-unsplash%402x-thumbnail.jpg"
+        },
+        "bio": "This is the store owner and we have 6 shops under our banner. We are running all the shops to give our customers hassle-free service and quality products. Our goal is to provide best possible customer service and products for our clients",
+        "socials": null,
+        "contact": "12365141641631",
+        "customer_id": 1,
+        "created_at": "2021-06-30T11:20:29.000000Z",
+        "updated_at": "2021-06-30T14:13:53.000000Z"
+      }
+    }
+  }
+]
